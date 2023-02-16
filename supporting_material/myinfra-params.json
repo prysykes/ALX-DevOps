@@ -1,0 +1,20 @@
+[
+	{
+		"ParameterKey": "EnvironmentName",
+		"ParameterValue": "ModifiedUdacityProject"
+	},
+	{
+		"ParameterKey": "VpcCIDR",
+		"ParameterValue": "10.1.0.0/16"
+	},
+	
+	{
+		"ParameterKey": "PrivateSubnet1CIDR",
+		"ParameterValue": "10.1.1.0/24"
+	},
+	{
+		"ParameterKey": "PrivateSubnet2CIDR",
+		"ParameterValue": "10.1.2.0/24"
+	}
+
+]
